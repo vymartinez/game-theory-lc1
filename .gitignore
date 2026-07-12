@@ -1,0 +1,18 @@
+# Rocq/Coq
+*.vo
+*.vok
+*.vos
+*.glob
+*.aux
+.*.aux
+.lia.cache
+CaminhosReticulado.cmi
+_check_tmp.*
+
+# LaTeX
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
