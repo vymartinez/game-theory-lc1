@@ -4,7 +4,7 @@ Formalização e prova, no assistente **Rocq**, da
 **equivalência entre caminhos em uma grade cartesiana** (*lattice paths*).
 Um caminho usa apenas passos para a **direita** (`Right`) e para **cima** (`Up`).
 Provamos que caminhos equivalentes por **permutação de passos** têm o **mesmo
-comprimento** e o **mesmo ponto final** — com a comutatividade `R;U ≡ U;R` como
+comprimento** e o **mesmo ponto final**, com a comutatividade `R;U ≡ U;R` como
 caso emblemático.
 
 > Disciplina: Lógica Computacional 1 — 2026/1 — Prof. Flávio L. C. de Moura.
